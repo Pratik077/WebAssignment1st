@@ -1,0 +1,22 @@
+body{
+    background-color: rosybrown;
+}
+
+h1{
+    text-align: center;
+    font-size: xx-large;
+}
+
+p{
+    font-size: x-large;
+    font-family: cursive;
+}
+
+a{
+    text-align: center;
+}
+
+a:hover{
+    color:blanchedalmond;
+    font-size: large;
+}

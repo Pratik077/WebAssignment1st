@@ -1,0 +1,39 @@
+.head{
+    background-color: darkcyan;
+    border: double;
+}
+
+h1{
+    text-align: center;
+    color: darkgoldenrod;
+    font-size: xx-large;
+}
+
+p{
+    font-size: large;
+}
+
+body{
+    background-color: skyblue;
+    padding: 15px;
+}
+
+.works{
+    float:left;
+    width:33%;
+}
+
+@media  screen and (max-width: 800px) {
+    .works {
+        width:100%;
+        height:auto;
+    }
+}
+
+li{
+    text-align: left;
+}
+
+a:hover{
+    color: whitesmoke;
+}

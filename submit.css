@@ -1,0 +1,17 @@
+body{
+    background-color: blueviolet;
+}
+
+h1{
+    font-size: larger;
+}
+
+p{
+    font-size: medium;
+    font-family: cursive;
+}
+
+a:hover {
+    background-color: cyan;
+    font-size: x-large;
+}
